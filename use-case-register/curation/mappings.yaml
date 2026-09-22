@@ -1,0 +1,4 @@
+# Reviewer-curated tagging, keyed by GitHub issue number. Written by
+# scripts/review_use_case.py — see docs/reviewer-workflow.md. Read by
+# scripts/load_curation.py to rebuild the sqlite cache and dashboard.
+{}
